@@ -7,3 +7,5 @@ target
 /.settings
 /.ensime_cache
 /RUNNING_PID
+ensime-langserver.log
+pc.stdout.log
